@@ -1,0 +1,4 @@
+/* Apply yellow color to the entire document */
+body {
+    background-color: rgb(2, 206, 217);
+}

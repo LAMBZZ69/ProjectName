@@ -1,0 +1,6 @@
+/* Apply a green light background color to the entire document */
+body {
+  background-color: #73c373; /* Light green */
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,9 @@
+/* Apply a red light effect to the entire document */
+body {
+    background-color: #ffcccc; /* Light red background */
+    color: #020202; /* Dark red text */
+}
+
+* {
+    border-color: #000000; /* Light red borders */
+}
